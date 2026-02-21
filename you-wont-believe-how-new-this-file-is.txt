@@ -1,0 +1,2 @@
+trying to commit shit after the reboot cuz i didnt quite grasped what ssh fuckass agent actually does after i reboot
+
